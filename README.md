@@ -23,11 +23,8 @@
 
 ### Screenshots and video
 ![alt text](https://github.com/geekfarmer/Github-Commits-using-Retrofit-HTTP-client/blob/master/2.jpeg)
-![alt text](https://github.com/geekfarmer/Github-Commits-using-Retrofit-HTTP-client/blob/master/3.jpeg)
+[alt text](https://github.com/geekfarmer/Github-Commits-using-Retrofit-HTTP-client/blob/master/3.jpeg)
 ![alt text](https://github.com/geekfarmer/Github-Commits-using-Retrofit-HTTP-client/blob/master/4.jpeg)
-![alt text](https://github.com/geekfarmer/Github-Commits-using-Retrofit-HTTP-client/blob/master/5.jpeg)
-
-<br/>
-![alt text](https://github.com/geekfarmer/Github-Commits-using-Retrofit-HTTP-client/blob/master/video%20gitcommit.mp4)
+[alt text](https://github.com/geekfarmer/Github-Commits-using-Retrofit-HTTP-client/blob/master/5.jpeg)
 
 
