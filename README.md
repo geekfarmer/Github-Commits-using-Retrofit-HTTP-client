@@ -20,3 +20,14 @@
 4.3 commitor email id <br/>
 4.4 commit date <br/>
 4.5 Commit description <br/>
+
+### Screenshots and video
+![alt text](https://github.com/geekfarmer/Github-Commits-using-Retrofit-HTTP-client/blob/master/2.jpeg)
+![alt text](https://github.com/geekfarmer/Github-Commits-using-Retrofit-HTTP-client/blob/master/3.jpeg)
+![alt text](https://github.com/geekfarmer/Github-Commits-using-Retrofit-HTTP-client/blob/master/4.jpeg)
+![alt text](https://github.com/geekfarmer/Github-Commits-using-Retrofit-HTTP-client/blob/master/5.jpeg)
+
+<br/>
+![alt text](https://github.com/geekfarmer/Github-Commits-using-Retrofit-HTTP-client/blob/master/video%20gitcommit.mp4)
+
+
