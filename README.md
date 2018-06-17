@@ -1,7 +1,7 @@
 # Github-Commits-using-Retrofit-HTTP-client
 ## Features
 ### 1. Search github username and get information 
-1.1 username
+1.1 username <br/>
 1.2 company
 1.3 email id
 1.4 bio
